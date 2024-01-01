@@ -1,0 +1,13 @@
+T(n)=T(n / 2) + 1
+This relation represents the number of recursive calls made for a given input n.
+T(n/2)=T((n / 2)/2) + 2 = T(n/4) + 2
+T(n/4)=T((n / 4)/2) + 3 = T(n/8) + 3
+This process suggests a pattern:
+T(n)=T(n/2^k) + k
+Let's find when n/2^k=1to reach the base case:
+n/2^k = 1
+n = 2^k
+log n = log 2^k
+k = log n
+When n = 1, k = 0 (as log 1 = 0)
+Hence, the time complexity of the algorithm is O(log n)
