@@ -1,3 +1,7 @@
+You can find the video here through this link:
+https://youtu.be/Iqo6BUYzw2s?si=RohcGZki4PbT7YEx
+
+
 I would like to give credit to the following, for helping me making this project:
 -Mathtrain on YouTube:
 https://youtu.be/xrUCL7tGKaI?si=SqDS73-Af5YKBUnO
